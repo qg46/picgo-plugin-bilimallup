@@ -1,4 +1,4 @@
-## picgo-plugin-bilibili
+## picgo-plugin-bilimallup
 
 [![版本](https://img.shields.io/npm/v/picgo-plugin-bilimallup.svg?color=brightgreen)](https://www.npmjs.com/package/picgo-plugin-smms-user)
 [![许可](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://github.com/qg46/picgo-plugin-bilimallup/blob/main/LICENSE)
