@@ -5,7 +5,9 @@
 
 
 为 [PicGo](https://github.com/Molunerfinn/PicGo) 开发的一款插件，新增了[B站工房](https://gf.bilibili.com/) 图床。
-使用新建商品的图片上传API（其实整个工房的图片都是一个接口上传的）。填写`SESSDATA和bli_jct`即可，获取方式在下面。
+使用新建商品的图片上传API（其实整个工房的图片都是一个接口上传的）。填写`SESSDATA`和`bli_jct`即可，获取方式在下面。
+
+【本项目基于[picgo-plugin-bilibili](https://github.com/xlzy520/picgo-plugin-bilibili)开发】
 
 ### 目录
 1. [其他推荐](#其他推荐)
