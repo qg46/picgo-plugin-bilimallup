@@ -1,0 +1,31 @@
+{
+  "name": "picgo-plugin-bilimallup",
+  "version": "1.1.12",
+  "description": "bilibili 图床工房版",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/qg46/picgo-plugin-bilimallup",
+  "scripts": {
+    "publish": "npm publish --registry https://registry.npmjs.org",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "patch": "npm version patch && git push origin master && git push origin --tags",
+    "minor": "npm version minor && git push origin master && git push origin --tags",
+    "major": "npm version major && git push origin master && git push origin --tags"
+  },
+  "keywords": [
+    "picgo",
+    "picgo-gui-plugin",
+    "picgo-plugin",
+    "picgo-plugin-bilimallup",
+    "bilimallup"
+  ],
+  "author": "请输入内容404",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:/qg46/picgo-plugin-bilimallup.git"
+  },
+  "license": "MIT",
+  "devDependencies": {}
+}
