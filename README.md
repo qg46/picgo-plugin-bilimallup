@@ -5,8 +5,8 @@
 [![许可](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://github.com/xlzy520/picgo-plugin-smms-user/blob/master/License)
 
 
-为 [PicGo](https://github.com/Molunerfinn/PicGo) 开发的一款插件，新增了[B站图床](https://bilibili.com/) 图床。
-使用用户动态的图片上传API。填写`SESSDATA和bli_jct`即可，获取方式在下面。
+为 [PicGo](https://github.com/Molunerfinn/PicGo) 开发的一款插件，新增了[B站工房](https://gf.bilibili.com/) 图床。
+使用新建商品的图片上传API（其实整个工房的图片都是一个接口上传的）。填写`SESSDATA和bli_jct`即可，获取方式在下面。
 
 ### 目录
 1. [其他推荐](#其他推荐)
