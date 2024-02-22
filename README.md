@@ -38,10 +38,13 @@
 下面是我比较推荐的安装方式（直观易懂）
 
 下载该项目文件，找个地方解压缩（需要确保要加载的文件夹内没有子文件夹）
-
+![](https://i0.hdslb.com/bfs/mallup/mall/yy/3z/yy3zx0x1yx13012z133w2y032w10yxzz.png)
 
 然后再在应用中选择`导入本地插件`
 ![](https://i0.hdslb.com/bfs/mallup/mall/03/x0/03x03x2zw010yz13w0zwyy2x2zyy00x3.png)
+
+最后选择这个文件夹，确定等待应用即可
+![](https://i0.hdslb.com/bfs/mallup/mall/10/3y/103y3wyx3wyww3zz000303033y2y00yy.png)
 
 ### 获取B站SESSDATA
 
