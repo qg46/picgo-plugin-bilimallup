@@ -19,6 +19,11 @@
 但仍不排除未来B站会删资源<br>
 还是建议本地做好备份，万一有一天真的这样了就完蛋了（悲）<br>
 
+对比
+
+动态图链：https://i0.hdslb.com/bfs/new_dyn/49a04e449c5b3b8f9a0302386a758bb4524486358.jpg
+工房图链：https://i0.hdslb.com/bfs/mallup/mall/zw/yx/zwyx2zx103zz1010x313ywyyw2yy2z11.jpg
+
 ### 目录
 1. [其他推荐](#其他推荐)
 2. [安装](#安装)
