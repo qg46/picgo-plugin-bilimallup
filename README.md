@@ -23,7 +23,7 @@
 
 - 在线安装
 
-  打开 [PicGo](https://github.com/Molunerfinn/PicGo) 详细窗口，选择**插件设置**，搜索**bili**安装，然后重启应用即可。
+  本人注册不了npm，恕无法提供本安装方式
 
 - 离线安装
 
@@ -32,8 +32,16 @@
     - Linux: `$XDG_CONFIG_HOME/picgo/` or `~/.config/picgo/`
     - macOS: `~/Library/Application\ Support/picgo/`
 
-  切换到新目录执行 `npm install ./picgo-plugin-bilibili`，然后重启应用即可。
+  切换到新目录执行 `npm install ./picgo-plugin-bilimallup`，然后重启应用即可。
 
+上面这个是原项目作者给出的方案，我不会整折腾半天没装成（笑）
+下面是我比较推荐的安装方式（直观易懂）
+
+下载该项目文件，找个地方解压缩（需要确保要加载的文件夹内没有子文件夹）
+
+
+然后再在应用中选择`导入本地插件`
+![](https://i0.hdslb.com/bfs/mallup/mall/03/x0/03x03x2zw010yz13w0zwyy2x2zyy00x3.png)
 
 ### 获取B站SESSDATA
 
