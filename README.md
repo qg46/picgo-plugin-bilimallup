@@ -1,7 +1,7 @@
 ## picgo-plugin-bilibili
 
 [![版本](https://img.shields.io/npm/v/picgo-plugin-bilimallup.svg?color=brightgreen)](https://www.npmjs.com/package/picgo-plugin-smms-user)
-[![许可](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://github.com/xlzy520/picgo-plugin-smms-user/blob/master/License)
+[![许可](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://github.com/qg46/picgo-plugin-smms-user/blob/master/License)
 
 
 为 [PicGo](https://github.com/Molunerfinn/PicGo) 开发的一款插件，新增了[B站工房](https://gf.bilibili.com/) 图床。
