@@ -9,6 +9,11 @@
 
 【本项目基于[picgo-plugin-bilibili](https://github.com/xlzy520/picgo-plugin-bilibili)开发】
 
+注意：您需要先安装node.js和nvm才可以导入插件，否则就会出现下图的报错
+下载地址：https://nodejs.org/zh-cn https://github.com/coreybutler/nvm-windows/releases
+![]()
+
+
 碎碎念：可是明明都有类似的项目了，为啥还需要另外开发一个基于工房的？<br>
 实际上，同类项目几乎全是基于`动态图片上传接口`开发的。<br>
 用工房做图床的却几乎没有，即使是实现起来并不困难<br>
